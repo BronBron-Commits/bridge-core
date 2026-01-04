@@ -26,3 +26,8 @@ This repository is not a demo scaffold. It proves, end-to-end:
 All of this has been validated on Termux (Android / aarch64).
 
 ## High-Level Architecture
+
+<!-- If you have an architecture diagram (e.g., architecture.png), add it here: -->
+<!-- ![High-Level Architecture](architecture.png) -->
+
+*(Diagram or further details can be added here in the future.)*
