@@ -1,0 +1,10 @@
+# Rust
+/target/
+/**/target/
+
+# .NET
+**/bin/
+**/obj/
+
+# Logs / traces
+*.log
